@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- Supporting a single framework target -->
+    <!--<TargetFramework>netcoreapp2.1</TargetFramework>-->
+
+    <!-- Support multiple targets -->
+    <TargetFrameworks>netstandard2.0;netcoreapp2.1;net471</TargetFrameworks>
+  </PropertyGroup>
+
+</Project>
